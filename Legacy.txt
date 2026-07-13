@@ -1,0 +1,25 @@
+| Command | Purpose                                        | Example                      |
+| ------- | ---------------------------------------------- | ---------------------------- |
+| `pwd`   | Displays the current directory (Linux/macOS)   | `pwd`                        |
+| `dir`   | Lists files and folders (Windows)              | `dir`                        |
+| `ls`    | Lists files and folders (Linux/macOS)          | `ls`                         |
+| `cd`    | Changes the current directory                  | `cd Documents`               |
+| `cd ..` | Moves to the parent directory                  | `cd ..`                      |
+| `mkdir` | Creates a new folder                           | `mkdir JavaPrograms`         |
+| `rmdir` | Deletes an empty folder                        | `rmdir TestFolder`           |
+| `type`  | Displays the contents of a text file (Windows) | `type notes.txt`             |
+| `cat`   | Displays the contents of a file (Linux/macOS)  | `cat notes.txt`              |
+| `copy`  | Copies a file (Windows)                        | `copy file1.txt file2.txt`   |
+| `cp`    | Copies a file (Linux/macOS)                    | `cp file1.txt file2.txt`     |
+| `move`  | Moves or renames a file (Windows)              | `move file.txt JavaPrograms` |
+| `mv`    | Moves or renames a file (Linux/macOS)          | `mv file.txt JavaPrograms`   |
+| `del`   | Deletes a file (Windows)                       | `del test.txt`               |
+| `rm`    | Deletes a file (Linux/macOS)                   | `rm test.txt`                |
+| `cls`   | Clears the Command Prompt screen (Windows)     | `cls`                        |
+| `clear` | Clears the Terminal screen (Linux/macOS)       | `clear`                      |
+| Command          | Purpose                             | Example            |
+| ---------------- | ----------------------------------- | ------------------ |
+| `javac`          | Compiles a Java program             | `javac Hello.java` |
+| `java`           | Runs a compiled Java program        | `java Hello`       |
+| `java -version`  | Displays the installed Java version | `java -version`    |
+| `javac -version` | Displays the Java compiler version  | `javac -version`   |
